@@ -9,4 +9,5 @@ public class Cliente {
         proxy.guardar(new Usuario(51150,"Luis Flores","6789", true));
 
     }
+    //
 }

@@ -16,6 +16,6 @@ public class Cliente {
         xiaomi = new Vidrio(xiaomi, 150);
         xiaomi = new Almacenamiento(xiaomi, 64);
         xiaomi.showData();
-
+//
     }
 }
